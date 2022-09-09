@@ -16,6 +16,3 @@ a simple and pretty batch file to add to your startup folder to **automatically*
 3. **Copy or move** the batch file into the autostart folder.
 
     ![PICTURE: autostart folder with batch file in it](https://github.com/avonces/winget-update-interface/blob/main/pics/autostart-folder.png)
-
-
-4. Done! **Enjoy being lazy** the next time you start your PC. Or don't. Whatever.
