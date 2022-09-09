@@ -1,8 +1,6 @@
 ![badge: java (not a lot)](https://img.shields.io/badge/Lang-Batch-informational?style=for-the-badge&logo=superuser&logoColor=white&color=fcd132)
 
 # winget-update-interface
-a simple and pretty batch file to add to your startup folder to **automatically** search for **updates** and install them
-[using winget (for lazy people like me)]
 
 ## Installation
 
